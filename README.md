@@ -1,4 +1,4 @@
-# Building APIs with Flask 🌐🚀
+# Building APIs with Flask 
 
 ### Project Overview
 This project revolves around the creation of a dynamic API using Flask, a versatile web framework in Python. Our API serves as a powerful backend, providing endpoints for retrieving, adding, updating, and deleting blog posts. Additionally, we've incorporated features like sorting, searching, and handling cross-origin requests (CORS) for a seamless web development experience.
@@ -19,4 +19,3 @@ GET /api/posts/search: Search for blog posts based on title or content.
 ### Contributions
 Contributions are welcome! If you have ideas for improvement, find bugs, or want to add features, please open an issue or submit a pull request.
 
-### Happy coding and API building! 🚀🌐
